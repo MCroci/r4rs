@@ -1,17 +1,6 @@
-### Hi there, I'm Michele Croci - aka Croci93
+# Hi there, I'm Michele Croci - aka Croci93
 
 ## I'm a PhD Student on Remote sensing 🌱🛰
-
-### Connect with me:
-
-[<img align="left" alt="Croci93 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Croci93 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Croci93 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-[twitter]: https://twitter.com/croci93
-[instagram]: https://instagram.com/michele.croci
-[linkedin]: https://www.linkedin.com/in/michele-croci-265abb133/
 
 
 ## Quick Start
@@ -20,10 +9,17 @@ We highly recommend using [RStudio](https://www.rstudio.com/) for authoring
 swirl content.
 
 ```r
-library(swirlify)
 # Create a new lesson and a new course
-new_lesson("My Lesson", "My Course")
-
-library(readxl)
 
 ```
+
+
+## Connect with me:
+[<img align="left" alt="Croci93 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Croci93 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Croci93 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[twitter]: https://twitter.com/croci93
+[instagram]: https://instagram.com/michele.croci
+[linkedin]: https://www.linkedin.com/in/michele-croci-265abb133/
