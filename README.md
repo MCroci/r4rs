@@ -12,3 +12,9 @@
 [twitter]: https://twitter.com/croci93
 [instagram]: https://instagram.com/michele.croci
 [linkedin]: https://www.linkedin.com/in/michele-croci-265abb133/
+
+
+```r
+library(readxl)
+
+```
