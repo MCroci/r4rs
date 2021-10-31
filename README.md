@@ -1,15 +1,22 @@
-# Hi there, I'm Michele Croci - aka Croci93
-
-## I'm a PhD Student on Remote sensing 🌱🛰
-
-
-## Quick Start
-
+# Remote Sensing in R
 We highly recommend using [RStudio](https://www.rstudio.com/).
 
 ```r
 # Create a new lesson and a new course
+
+
+
+
+
 ```
+
+
+
+
+
+
+
+
 
 
 ## Connect with me:
