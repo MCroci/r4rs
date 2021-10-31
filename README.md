@@ -14,7 +14,16 @@
 [linkedin]: https://www.linkedin.com/in/michele-croci-265abb133/
 
 
+## Quick Start
+
+We highly recommend using [RStudio](https://www.rstudio.com/) for authoring 
+swirl content.
+
 ```r
+library(swirlify)
+# Create a new lesson and a new course
+new_lesson("My Lesson", "My Course")
+
 library(readxl)
 
 ```
