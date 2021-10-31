@@ -5,12 +5,10 @@
 
 ## Quick Start
 
-We highly recommend using [RStudio](https://www.rstudio.com/) for authoring 
-swirl content.
+We highly recommend using [RStudio](https://www.rstudio.com/).
 
 ```r
 # Create a new lesson and a new course
-
 ```
 
 
