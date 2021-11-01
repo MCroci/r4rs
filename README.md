@@ -8,7 +8,10 @@ library(hsdar)
 library(rasterVis) # for visualization
 ```
 
-
+## Open a Sentinel-2 images
+```r
+r <- raster("2020-01-01.tif)
+```
 
 
 
