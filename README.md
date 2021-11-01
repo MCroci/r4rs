@@ -1,4 +1,4 @@
-# Remote Sensing in R
+# R for Remote sensing
 We highly recommend using [RStudio](https://www.rstudio.com/).
 
 ```r
