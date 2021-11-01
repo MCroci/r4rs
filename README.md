@@ -8,11 +8,23 @@ library(hsdar)
 library(rasterVis) # for visualization
 ```
 
-## Open a Sentinel-2 images
+### Open a Sentinel-2 images
 ```r
 r <- raster("2020-01-01.tif")
 ```
-
+### Image information and statistics
+```r
+r
+## class : RasterLayer
+## dimensions : 1245, 1497, 1863765 (nrow, ncol, ncell)
+## resolution : 30, 30 (x, y)
+## extent : 594090, 639000, 4190190, 4227540 (xmin, xmax, ymin, ymax)
+## crs : +proj=utm +zone=10 +datum=WGS84 +units=m +no_defs +ellps=WGS84
+˓+towgs84=0,0,0
+## source : c:/github/rspatial/rspatial-web/source/rs/_R/data/rs/LC08_044034_20170614_B2.tif
+## names : LC08_044034_20170614_B2
+## values : 0.0748399, 0.7177562 (min, max)
+```
 
 
 
