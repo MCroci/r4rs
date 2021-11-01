@@ -1,4 +1,4 @@
-# R for Remote sensing
+# Remote Sensing with R
 We highly recommend using [RStudio](https://www.rstudio.com/). Here is a list of some R packages for analyzing remote sensing data
 
 ```r
