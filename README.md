@@ -1,5 +1,5 @@
 # Remote Sensing with R
-**Contributors:** *Michele Croci* & *Giorgio Impollonia*
+**Contributors:** *Michele Croci*, *Giorgio Impollonia* and *Stefano Amaducci*
 
 We highly recommend using [RStudio](https://www.rstudio.com/). Here is a list of some R packages for analyzing remote sensing data
 
