@@ -1,5 +1,5 @@
 # Remote Sensing with R
-**Contributors:** *Michele Croci*, *Giorgio Impollonia* and *Stefano Amaducci*
+**Contributors:** *Michele Croci*
 
 .. .. work in progress .. ..
 
